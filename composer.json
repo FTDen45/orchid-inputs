@@ -1,0 +1,19 @@
+{
+    "name": "easy/orchid-inputs",
+    "description": "Orchid custom Field class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Easy.Denis",
+            "email": "ftforest640@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Easy\\OrchidInputs\\": "src/"
+        }
+    }
+}
